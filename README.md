@@ -4,7 +4,7 @@
   <img height="40px" src="https://img.shields.io/badge/-PRAJJWAL-333d7a?&style=for-the-badge&logoWidth=50" />
   <img height="40px" src="https://img.shields.io/badge/-TRIPATHI-333d7a?&style=for-the-badge&logoWidth=50" />
     <br>
- <img height="40px" src="https://img.shields.io/badge/-I am skilled in-faebee?&style=for-the-badge&logoWidth=50" />
+ <img height="40px" src="https://img.shields.io/badge/-Let's Chat about-faebee?&style=for-the-badge&logoWidth=50" />
 <br>
 
 
