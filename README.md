@@ -8,7 +8,7 @@
 <br>
 
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?color=333d7a%&size=32&center=true&vCenter=true&width=600&height=50&pause=1000&vCenter=true&background=faebee&lines=App+Development;Problem+Solving;Backend+Development;A.I.+Tools" alt="Headline" />
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?color=333d7a%&size=32&center=true&vCenter=true&width=600&height=50&pause=800&vCenter=true&background=faebee&lines=App+Development;Problem+Solving;Backend+Development;A.I.+Tools" alt="Headline" />
 </div>
 
 <h3 align="center">Building my expertise in developing beautiful cross platform apps along with high-performance and scalable systems </h3>
