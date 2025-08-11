@@ -63,6 +63,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prajjwa-lit&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwa-lit&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/prajjwa-lit/prajjwa-lit/refs/heads/main/assets/profile-customize.svg" alt="Prajjwal's 3D Contribution Calendar" />
+</div>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prajjwa-lit&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
